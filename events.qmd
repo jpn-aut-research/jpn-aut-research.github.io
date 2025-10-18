@@ -4,9 +4,12 @@ title: イベント
 
 イベントの情報を掲載します。
 
+> イベント掲載依頼・共催相談は [お問い合わせ](contact.qmd) からご連絡ください。
+
 
 ### 今後のイベント（Upcoming）
 
+##### 主催イベント
 
 - **第2回研究者交流会** (企画中)
 
@@ -15,6 +18,17 @@ title: イベント
     形式: 食事会（ウィーン）
     
     参加登録: 調整中
+
+##### 関連イベント
+
+- **Japan Science Day 2025** (ウィーン工科大学)
+
+    日時: 2025年11月7日 (金) 14:00~18:00
+
+    会場: ウィーン工科大学 [TUtheSky, Getreidemarkt 9, 1060 Vienna](https://maps.tuwien.ac.at/?q=BA11B09)
+
+    詳細: [リンク](https://www.tuwien.at/en/research/science-days/japan-science-day-2025)
+
 
 
 ### 過去のイベント（Past）
@@ -27,6 +41,3 @@ title: イベント
     会場: Restaurant Nihonbashi ([Kärntner Strasse 44, 1100 Wien](https://maps.app.goo.gl/DWZzpDdifqfMxotS7))
     
     形式: 食事会
-
-
-> イベント掲載依頼・共催相談は [お問い合わせ](contact.qmd) からご連絡ください。
