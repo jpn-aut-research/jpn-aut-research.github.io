@@ -1,0 +1,32 @@
+---
+title: イベント
+---
+
+イベントの情報を掲載します。
+
+
+### 今後のイベント（Upcoming）
+
+
+- **第2回研究者交流会** (企画中)
+
+    日時: 2025-MM-DD (X) HH:MM–HH:MM CET
+    
+    形式: 食事会（ウィーン）
+    
+    参加登録: 調整中
+
+
+### 過去のイベント（Past）
+
+
+- **第1回研究者交流会**
+    
+    日時: 2025-05-24 (土) 18:00–20:00 CET
+
+    会場: Restaurant Nihonbashi ([Kärntner Strasse 44, 1100 Wien](https://maps.app.goo.gl/DWZzpDdifqfMxotS7))
+    
+    形式: 食事会
+
+
+> イベント掲載依頼・共催相談は [お問い合わせ](contact.qmd) からご連絡ください。

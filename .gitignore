@@ -1,0 +1,5 @@
+/.quarto/
+/_site/
+/_local/ # Local ignore folder
+**/.DS_Store # For MacOS
+

@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "日本・オーストリア研究者ネットワーク"
+  image: assets/images/jarnet_logo.svg
+  favicon: assets/images/jarnet_favicon.svg
+  site-url: https://jpn-aut-research.github.io/jpn-aut-research.github.io/
+  description: "オーストリアを拠点とする日本人研究者のための情報共有・交流の場"
+  navbar:
+    toggle-position: right
+    background: "#F8F8F8"
+    logo: assets/images/jarnet_logo.svg
+    logo-alt: "JARNet logo"
+    title: false
+    left:
+      - href: index.qmd
+        text: ホーム
+      - href: about.qmd
+        text: 紹介
+      - href: events.qmd
+        text: イベント
+      - href: mailing-list.qmd
+        text: メーリングリスト
+      - href: links.qmd
+        text: リンク集
+      - href: contact.qmd
+        text: お問い合わせ
+    # right:
+    #   - icon: github
+    #     aria-label: GitHub
+    #     href: https://github.com/jpn-aut-research/jpn-aut-research.github.io
+
+
+format:
+  html:
+    toc: false
+    toc-location: right
+    theme: default
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="assets/css/template.css">
+    lang: ja
+    code-fold: false
+    link-external-newwindow: true
+
+lang: ja

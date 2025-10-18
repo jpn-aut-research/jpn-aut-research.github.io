@@ -1,2 +1,4 @@
-# jpn-aut-research.github.io
-github_website of JP researchers in AUT
+# 日本・オーストリア研究者ネットワーク サイト
+
+Quartoで構築し、GitHub Pagesで公開するサイトです。
+
