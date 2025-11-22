@@ -16,17 +16,15 @@ website:
     title: false
     left:
       - href: index.qmd
-        text: ホーム
-      - href: about.qmd
-        text: 紹介
+        text: About
       - href: events.qmd
-        text: イベント
+        text: Events
       - href: mailing-list.qmd
-        text: メーリングリスト
+        text: Mailing List
       - href: links.qmd
-        text: リンク集
+        text: Links
       - href: contact.qmd
-        text: お問い合わせ
+        text: Contact
     # right:
     #   - icon: github
     #     aria-label: GitHub

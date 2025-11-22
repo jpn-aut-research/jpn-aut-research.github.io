@@ -1,5 +1,5 @@
 ---
-title: お問い合わせ
+title: Contact
 ---
 
 
@@ -12,6 +12,5 @@ Email: [jpnaut.research@gmail.com](mailto:jpnaut.research@gmail.com)
 ### 運営
 
 - 有志メンバー
-
 
 > ML 参加可否やイベント共催のご相談、サイト改善の提案など、お気軽にご連絡ください。

@@ -1,18 +1,19 @@
 ---
-title: リンク集
+title: Useful Links
 ---
 
 
 日本・オーストリア間の研究交流や生活に役立つリンクをまとめています。
 
 
-### 研究資金・制度
+### 研究資金・制度・公募情報
 
 - [日本学術振興会 ボン研究連絡センター](https://jsps-bonn.de/ja/home2/) (JSPS Bonn Office)
 - [日本学術振興会 二国間交流事業](https://www.jsps.go.jp/j-bilat/) 
 - [オーストリア科学基金 (FWF)](https://www.fwf.ac.at/foerdern/foerderportfolio/laenderkooperationen/japan)
 - [オーストリア科学アカデミー (ÖAW) フェローシップ](https://stipendien.oeaw.ac.at/en/fellowships) 
 - [オーストリア研究振興公社（FFG）](https://www.ffg.at/)
+- [EURAXESS Austria](https://www.euraxess.at/)
 
 ### 在外公館・教育・生活
 
@@ -26,4 +27,4 @@ title: リンク集
 - [墺日学術交流会](https://aaj.univie.ac.at/?page_id=42&lang=ja)
 
 
-> リンク追加の提案は [お問い合わせ](contact.qmd) まで。
+> リンク追加の提案は [Contact](contact.qmd) まで。

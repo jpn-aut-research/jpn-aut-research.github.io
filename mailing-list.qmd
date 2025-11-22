@@ -1,10 +1,9 @@
 ---
-title: メーリングリスト
+title: Mailing List
 ---
 
 
-### Google グループ（JA-RN ML）
-
+### Google グループ
 
 研究会・セミナー・助成金公募・交流機会などの情報を配信します。参加は承認制です。
 
@@ -28,4 +27,4 @@ title: メーリングリスト
 
 #### 退会方法
 
-- Google グループの管理画面から退会できます。ご不明点は [お問い合わせ](contact.qmd) へ。
+- Google グループの管理画面から退会できます。ご不明点は [Contact](contact.qmd) へ。
