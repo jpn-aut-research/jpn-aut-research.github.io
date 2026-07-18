@@ -34,7 +34,7 @@ Members
 :::
 
 ::: {.landing-stat}
-Central Europe
+Austria
 
 Researchers in neighboring countries welcome
 :::

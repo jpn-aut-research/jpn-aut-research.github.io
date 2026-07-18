@@ -33,7 +33,7 @@ Japan-Austria Researcher Network
 :::
 
 ::: {.landing-stat}
-Central Europe
+オーストリア
 
 周辺国からも参加歓迎
 :::
