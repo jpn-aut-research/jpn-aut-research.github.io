@@ -1,5 +1,5 @@
 ---
-title: About us
+title: 概要
 ---
 
 
@@ -36,4 +36,4 @@ title: About us
 ## 加入方法
 
 
-メーリングリスト（Google グループ）にご参加ください。詳細は [Mailing List](mailing-list.qmd) を参照してください。
+メーリングリスト（Google グループ）にご参加ください。詳細は [メーリングリスト](mailing-list.qmd) を参照してください。

@@ -1,0 +1,82 @@
+---
+title: JARNet
+lang: en
+body-class: landing-page
+page-layout: full
+---
+
+::: {.landing-hero}
+::: {.landing-hero-content}
+::: {.landing-kicker}
+Japan-Austria Researcher Network
+:::
+
+# JARNet
+
+A community for researchers with ties to Japan and Austria to meet across fields, institutions, and career stages, exchange practical knowledge, and open doors to new collaboration.
+
+::: {.landing-actions}
+[See Events](events.qmd){.landing-button .landing-button-primary}
+[Join the Mailing List](mailing-list.qmd){.landing-button .landing-button-secondary}
+:::
+
+::: {.landing-stats}
+::: {.landing-stat}
+2025
+
+Founded
+:::
+
+::: {.landing-stat}
+30+
+
+Members
+:::
+
+::: {.landing-stat}
+Central Europe
+
+Researchers in neighboring countries welcome
+:::
+:::
+:::
+:::
+
+::: {.landing-section}
+## A Place to Connect Across Fields
+
+JARNet brings together Japanese researchers and researchers with ties to Japan, especially those working in Austria. Our members span the natural sciences, engineering, humanities and social sciences, music, the arts, and other fields.
+:::
+
+::: {.landing-grid}
+::: {.landing-card}
+### Connect
+
+Meet researchers across disciplines and institutions through informal gatherings, seminars, and networking events.
+:::
+
+::: {.landing-card}
+### Share
+
+Exchange information on funding, calls, systems, research environments, and day-to-day research life in Austria.
+:::
+
+::: {.landing-card}
+### Co-create
+
+Turn new contacts and shared ideas into collaborations and exchanges.
+:::
+:::
+
+::: {.landing-section .landing-section-split}
+::: {.landing-section-copy}
+## Joining the Network
+
+JARNet welcomes researchers currently based in Austria, those who have spent time here before, and researchers working in neighboring Central European countries.
+:::
+
+::: {.landing-link-panel}
+[About JARNet](about.qmd)
+[Contact Us](contact.qmd)
+:::
+:::

@@ -1,5 +1,5 @@
 ---
-title: Mailing List
+title: メーリングリスト
 ---
 
 
@@ -27,4 +27,4 @@ title: Mailing List
 
 #### 退会方法
 
-- Google グループの管理画面から退会できます。ご不明点は [Contact](contact.qmd) へ。
+- Google グループの管理画面から退会できます。ご不明点は [連絡先](contact.qmd) へ。

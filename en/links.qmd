@@ -1,0 +1,32 @@
+---
+title: Useful Links
+lang: en
+---
+
+
+This page brings together selected links for research exchange, funding, institutions, and day-to-day life connected to Japan and Austria.
+
+
+### Research Funding and Opportunities
+
+- [JSPS Bonn Office](https://jsps-bonn.de/ja/home2/)
+- [JSPS Bilateral Programs](https://www.jsps.go.jp/j-bilat/)
+- [Austrian Science Fund (FWF)](https://www.fwf.ac.at/foerdern/foerderportfolio/laenderkooperationen/japan)
+- [Austrian Academy of Sciences (ÖAW) Fellowships](https://stipendien.oeaw.ac.at/en/fellowships)
+- [Austrian Research Promotion Agency (FFG)](https://www.ffg.at/)
+- [EURAXESS Austria](https://www.euraxess.at/)
+
+### Embassies, Education, and Daily Life
+
+- [Embassy of Japan in Austria](https://www.at.emb-japan.go.jp/itprtop_ja/index.html)
+- [Japan Austria Science Exchange Center (JASEC)](https://www.tuwien.at/forschung/facilities/jasec)
+- [Japanese Studies, Department of East Asian Studies, University of Vienna](https://japanologie.univie.ac.at/)
+- [Japanese Society in Austria](https://www.nihonjinkai.at/)
+- [Austrian-Japanese Society](http://www.oejg.org/)
+
+### Research Communities
+
+- [Austrian-Japanese Academic Exchange Association](https://aaj.univie.ac.at/?page_id=42&lang=ja)
+
+
+> Suggestions for additional links are welcome via [Contact](contact.qmd).

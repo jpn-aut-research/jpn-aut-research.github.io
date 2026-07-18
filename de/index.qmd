@@ -1,0 +1,82 @@
+---
+title: JARNet
+lang: de
+body-class: landing-page
+page-layout: full
+---
+
+::: {.landing-hero}
+::: {.landing-hero-content}
+::: {.landing-kicker}
+Japan-Austria Researcher Network
+:::
+
+# JARNet
+
+Eine Community für Forschende mit Bezug zu Japan und Österreich: zum Kennenlernen über Fachgrenzen hinweg, zum Teilen von praktischem Wissen und als Ausgangspunkt für neue Kooperationen.
+
+::: {.landing-actions}
+[Veranstaltungen ansehen](events.qmd){.landing-button .landing-button-primary}
+[Mailingliste beitreten](mailing-list.qmd){.landing-button .landing-button-secondary}
+:::
+
+::: {.landing-stats}
+::: {.landing-stat}
+2025
+
+Gegründet
+:::
+
+::: {.landing-stat}
+30+
+
+Mitglieder
+:::
+
+::: {.landing-stat}
+Central Europe
+
+Forschende aus Nachbarländern willkommen
+:::
+:::
+:::
+:::
+
+::: {.landing-section}
+## Austausch über Fachgrenzen hinweg
+
+JARNet bringt japanische Forschende und Forschende mit Japan-Bezug zusammen, insbesondere in Österreich. Die Mitglieder kommen aus vielen Bereichen, von Naturwissenschaften und Technik über Geistes- und Sozialwissenschaften bis hin zu Musik und Kunst.
+:::
+
+::: {.landing-grid}
+::: {.landing-card}
+### Vernetzen
+
+Bei Treffen, Seminaren und Netzwerkveranstaltungen entstehen Kontakte über Fachrichtungen und Institutionen hinweg.
+:::
+
+::: {.landing-card}
+### Wissen teilen
+
+Wir tauschen Informationen zu Förderungen, Ausschreibungen, Systemen, Forschungsumgebungen und dem Forschungsalltag in Österreich aus.
+:::
+
+::: {.landing-card}
+### Gemeinsam entwickeln
+
+Aus neuen Kontakten und geteilten Ideen können Kooperationen und Austauschformate entstehen.
+:::
+:::
+
+::: {.landing-section .landing-section-split}
+::: {.landing-section-copy}
+## Mitglied werden
+
+JARNet richtet sich an Forschende, die derzeit in Österreich tätig sind, früher hier geforscht oder gelebt haben oder in benachbarten Ländern Mitteleuropas arbeiten.
+:::
+
+::: {.landing-link-panel}
+[Über JARNet](about.qmd)
+[Kontakt](contact.qmd)
+:::
+:::

@@ -1,0 +1,32 @@
+---
+title: Mailingliste
+lang: de
+---
+
+
+### Google-Gruppe
+
+Über die Google-Gruppe teilen wir Informationen zu Forschungstreffen, Seminaren, Fördermöglichkeiten, Ausschreibungen und Vernetzungsangeboten. Damit die Liste übersichtlich bleibt und vor Spam geschützt ist, werden Beitrittsanfragen vor der Freischaltung geprüft.
+
+#### Beitritt
+
+1. Melden Sie sich mit Ihrem Google-Konto an und beantragen Sie den Beitritt über den folgenden Link.
+
+    👉 **[JARNet Google-Gruppe](https://groups.google.com/g/ja-researchers-in-at/about)**
+
+2. Bitte geben Sie in Ihrer Anfrage folgende Informationen an:
+    - Name
+    - Zugehörigkeit und Funktion, zum Beispiel Doktorand:in, Forschende:r oder Forschende:r in der Industrie
+    - Kontakt-E-Mail-Adresse
+
+
+#### Hinweise für Beiträge
+
+- Beiträge zu Forschung, Lehre und wissenschaftlichem Austausch sind willkommen.
+- Bitte verzichten Sie auf Beiträge, die ausschließlich kommerzielle Werbung bezwecken.
+- Wenn ein Beitrag personenbezogene Informationen enthält, gehen Sie bitte sorgfältig und eigenverantwortlich damit um.
+
+
+#### Austritt
+
+- Sie können die Gruppe über die Verwaltungsseite von Google Groups verlassen. Bei Fragen wenden Sie sich bitte über [Kontakt](contact.qmd) an uns.

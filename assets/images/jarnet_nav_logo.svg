@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="title desc">
+  <title id="title">JARNet navbar logo</title>
+  <desc id="desc">Compact JARNet logo with small-world network mark and acronym for website navigation.</desc>
+  <defs>
+    <style>
+      .word{fill:#1d2228;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans JP",Meiryo,sans-serif;font-weight:830;letter-spacing:0}
+      .tag{fill:#5f6975;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans JP",Meiryo,sans-serif;font-weight:650;letter-spacing:.02em}
+    </style>
+  </defs>
+  <g transform="translate(3 3) scale(.3515625)">
+    <g transform="rotate(-15 128 128)">
+      <circle cx="128" cy="128" r="91" fill="none" stroke="#dce2e8" stroke-width="3"/>
+      <g stroke="#7d8a95" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".5" fill="none">
+        <path d="M75.8 53.5 L151.6 40.1 L210.5 89.5 L215.9 151.6 L159.1 213.5 L75.8 202.5 L37.3 120.1 Z"/>
+      </g>
+      <g stroke="#6f7d89" stroke-width="3" stroke-linecap="round" opacity=".62" fill="none">
+        <path d="M151.6 40.1 Q222 120 159.1 213.5"/>
+        <path d="M37.3 120.1 Q122 63 210.5 89.5"/>
+        <path d="M75.8 53.5 Q137.6 166.3 215.9 151.6"/>
+      </g>
+      <g>
+        <path d="M75.8 53.5 A91 91 0 0 1 210.5 89.5" fill="none" stroke="#c8102e" stroke-width="10" stroke-linecap="round"/>
+        <path d="M215.9 151.6 A91 91 0 0 1 75.8 202.5" fill="none" stroke="#315f8f" stroke-width="10" stroke-linecap="round"/>
+      </g>
+      <circle cx="75.8" cy="53.5" r="12" fill="#c8102e"/>
+      <circle cx="151.6" cy="40.1" r="12" fill="#c8102e"/>
+      <circle cx="210.5" cy="89.5" r="12" fill="#c8102e"/>
+      <circle cx="215.9" cy="151.6" r="12" fill="#315f8f"/>
+      <circle cx="159.1" cy="213.5" r="12" fill="#315f8f"/>
+      <circle cx="75.8" cy="202.5" r="12" fill="#315f8f"/>
+      <circle cx="37.3" cy="120.1" r="12" fill="#477061"/>
+    </g>
+  </g>
+  <text class="word" x="104" y="57" font-size="42">JARNet</text>
+  <path d="M106 70 H210" stroke="#c8102e" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M218 70 H272" stroke="#315f8f" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M280 70 H306" stroke="#477061" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

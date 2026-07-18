@@ -1,1 +1,49 @@
-<svg width="2173" height="1109" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden"><g transform="translate(-884 -673)"><g><rect x="949" y="678" width="2069" height="1101" fill="#C8102E" fill-opacity="1"/><text fill="#FFFFFF" fill-opacity="1" font-family="Hiragino Sans GB W6,Hiragino Sans GB W6_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="600" font-stretch="normal" font-size="220" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(1 0 0 1 1383.88 1294)">日本・墺研究者</text><text fill="#FFFFFF" fill-opacity="1" font-family="Hiragino Sans GB W6,Hiragino Sans GB W6_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="600" font-stretch="normal" font-size="220" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(1 0 0 1 1603.88 1558)">ネットワーク</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" role="img" aria-labelledby="title desc">
+  <title id="title">JARNet small-world ring logo</title>
+  <desc id="desc">An irregular seven-node circular research network with color-clustered arcs and curved shortcut links beside the JARNet wordmark.</desc>
+  <defs>
+    <style>
+      .ink{fill:#1d2228}
+      .muted{fill:#5f6975}
+      .red{stroke:#c8102e}
+      .blue{stroke:#315f8f}
+      .green{stroke:#477061}
+      .line{fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .word{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans JP",Meiryo,sans-serif;font-weight:800;letter-spacing:0}
+      .tag{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans JP",Meiryo,sans-serif;font-weight:550;letter-spacing:.02em}
+    </style>
+  </defs>
+  <g transform="translate(28 24)">
+    <g transform="rotate(-15 96 96)">
+      <circle cx="96" cy="96" r="76" fill="none" stroke="#dce2e8" stroke-width="2"/>
+      <g stroke="#84909a" stroke-width="2" opacity=".5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M52.4 33.8 L115.7 22.6 L164.9 63.9 L169.4 115.7 L122 167.4 L52.4 158.2 L20.3 89.4 Z"/>
+      </g>
+      <g stroke="#6f7d89" stroke-width="2" opacity=".62" fill="none" stroke-linecap="round">
+        <path d="M115.7 22.6 Q174 89 122 167.4"/>
+        <path d="M20.3 89.4 Q91 42 164.9 63.9"/>
+        <path d="M52.4 33.8 Q104 128 169.4 115.7"/>
+      </g>
+      <g>
+        <path class="line red" d="M52.4 33.8 A76 76 0 0 1 164.9 63.9" stroke-width="7"/>
+        <path class="line blue" d="M169.4 115.7 A76 76 0 0 1 52.4 158.2" stroke-width="7"/>
+      </g>
+      <g>
+        <circle cx="52.4" cy="33.8" r="9" fill="#c8102e"/>
+        <circle cx="115.7" cy="22.6" r="9" fill="#c8102e"/>
+        <circle cx="164.9" cy="63.9" r="9" fill="#c8102e"/>
+        <circle cx="169.4" cy="115.7" r="9" fill="#315f8f"/>
+        <circle cx="122" cy="167.4" r="9" fill="#315f8f"/>
+        <circle cx="52.4" cy="158.2" r="9" fill="#315f8f"/>
+        <circle cx="20.3" cy="89.4" r="9" fill="#477061"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(250 67)">
+    <text class="word ink" x="0" y="64" font-size="64">JARNet</text>
+    <text class="tag muted" x="4" y="104" font-size="21">Japan-Austria Researcher Network</text>
+    <path d="M6 126 H214" stroke="#c8102e" stroke-width="4" stroke-linecap="round"/>
+    <path d="M226 126 H332" stroke="#315f8f" stroke-width="4" stroke-linecap="round"/>
+    <path d="M344 126 H414" stroke="#477061" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

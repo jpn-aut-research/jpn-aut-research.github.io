@@ -1,0 +1,40 @@
+---
+title: Über JARNet
+lang: de
+---
+
+
+Das Japanisch-Österreichische Forschungsnetzwerk (JARNet) verbindet japanische Forschende und Forschende mit Japan-Bezug, insbesondere in Österreich, über unterschiedliche Fachrichtungen hinweg. Vertreten sind unter anderem Naturwissenschaften, Ingenieurwissenschaften, Geistes- und Sozialwissenschaften, Musik und Kunst.
+Das Netzwerk wird von engagierten Mitgliedern getragen und lebt von freiwilliger Mitarbeit, unabhängig von Institution oder Karrierestufe.
+
+
+### Leitprinzipien
+
+JARNet möchte eine verlässliche Grundlage für wissenschaftlichen Austausch und gegenseitige Unterstützung über Länder- und Fachgrenzen hinweg schaffen.
+Wir verstehen das Netzwerk als Schnittstelle zwischen Wissenschaft, Kultur und Gesellschaft und orientieren uns dabei an drei Grundideen.
+
+1. Vernetzen
+
+    Wir schaffen Gelegenheiten, bei denen Forschende einander über Fachrichtungen, Institutionen und Karrierestufen hinweg begegnen können.
+    Gerade ungezwungene Begegnungen können neue Fragen, Ideen und Kooperationen anstoßen.
+
+2. Wissen teilen
+
+    Wir tauschen Erfahrungen und praktische Informationen aus, die Forschung und Leben in Österreich erleichtern können, etwa zu Fördermöglichkeiten, Ausschreibungen, institutionellen Abläufen, Forschungsumgebungen und Alltagserfahrungen.
+
+3. Gemeinsam entwickeln
+
+    Wir unterstützen dabei, Ideen aus Begegnungen und Austausch in konkrete Formen zu bringen, etwa in gemeinsame Forschungsprojekte, Austauschformate oder Präsentationen. Als Netzwerk zwischen Japan und Österreich möchten wir fachübergreifende Zusammenarbeit und neue Perspektiven fördern.
+
+
+### Aktivitäten
+
+- Netzwerktreffen, Forschungsseminare sowie Online- und Präsenzformate
+- Hinweise auf akademische Programme und Austauschmöglichkeiten zwischen Japan und Österreich
+- Aktuelle Informationen zu Förderungen, Ausschreibungen, institutionellen Rahmenbedingungen und weiteren forschungsbezogenen Themen
+
+
+## Mitglied werden
+
+
+Der Beitritt erfolgt über die Mailingliste bei Google Groups. Weitere Informationen finden Sie auf der Seite [Mailingliste](mailing-list.qmd).

@@ -1,0 +1,32 @@
+---
+title: Mailing List
+lang: en
+---
+
+
+### Google Group
+
+JARNet uses a Google Group to share information about research meetings, seminars, funding opportunities, calls, and networking events. To keep the list useful and prevent spam, membership requests are reviewed before approval.
+
+#### How to Join
+
+1. Sign in with your Google account and request membership using the link below.
+
+    👉 **[JARNet Google Group](https://groups.google.com/g/ja-researchers-in-at/about)**
+
+2. In your request, please include:
+    - Your name
+    - Your affiliation and position, such as PhD student, researcher, or industry researcher
+    - Your contact email address
+
+
+#### Posting Guidelines
+
+- Posts related to research, education, and academic exchange are welcome.
+- Please avoid posts whose sole purpose is commercial promotion.
+- If your post includes personal information, please handle it responsibly and with appropriate care.
+
+
+#### Leaving the List
+
+- You can leave the group from the Google Groups management page. If anything is unclear, please contact us via [Contact](contact.qmd).

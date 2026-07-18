@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  post-render:
+    - scripts/localize-navbar.ts
 
 website:
   title: "日本・オーストリア研究者ネットワーク"
@@ -11,24 +13,33 @@ website:
   navbar:
     toggle-position: right
     background: "#F8F8F8"
-    logo: assets/images/jarnet_logo.svg
+    logo: assets/images/jarnet_nav_logo.svg
     logo-alt: "JARNet logo"
     title: false
     left:
       - href: index.qmd
-        text: About
+        text: ホーム
+      - href: about.qmd
+        text: 概要
       - href: events.qmd
-        text: Events
+        text: イベント
       - href: mailing-list.qmd
-        text: Mailing List
+        text: メーリングリスト
       - href: links.qmd
-        text: Links
+        text: リンク集
       - href: contact.qmd
-        text: Contact
-    # right:
-    #   - icon: github
-    #     aria-label: GitHub
-    #     href: https://github.com/jpn-aut-research/jpn-aut-research.github.io
+        text: 連絡先
+    right:
+      - icon: globe2
+        text: 日本語
+        aria-label: 言語を選択
+        menu:
+          - text: 日本語
+            href: index.qmd
+          - text: English
+            href: en/index.qmd
+          # - text: Deutsch
+          #   href: de/index.qmd
 
 
 format:
@@ -36,9 +47,7 @@ format:
     toc: false
     toc-location: right
     theme: default
-    include-in-header:
-      text: |
-        <link rel="stylesheet" href="assets/css/template.css">
+    css: assets/css/template.css
     lang: ja
     code-fold: false
     link-external-newwindow: true

@@ -1,0 +1,53 @@
+---
+title: Events
+lang: en
+---
+
+This page lists upcoming JARNet events as well as a record of past gatherings.
+
+> If you would like to share an event with the network or discuss a jointly organized event, please get in touch via [Contact](contact.qmd).
+
+
+### Upcoming Events
+
+No upcoming events have been announced yet. Please check back for updates.
+
+
+### Past Events
+
+- **Networking Event for Japanese Researchers**
+
+    Date: Thursday, July 16, 2026, 14:00-17:00 CET
+
+    Location: Residence of the Ambassador of Japan to Austria, Vienna
+
+    Program: Talks followed by networking
+
+    Co-hosted by the Embassy of Japan in Austria and TU Wien
+
+    This was an invitation-only event.
+
+- **2nd Researcher Networking Event**
+
+    Date: Saturday, January 31, 2026, 12:00-15:00 CET
+
+    Lunch gathering in Vienna
+
+- **1st Researcher Networking Event**
+
+    Date: Saturday, May 24, 2025, 18:00-20:00 CET
+
+    Location: Restaurant Nihonbashi ([Kärntner Strasse 44, 1100 Wien](https://maps.app.goo.gl/DWZzpDdifqfMxotS7))
+
+    Dinner gathering
+
+
+### Related Events
+
+- **Japan Science Day 2025** (TU Wien)
+
+    Date: Friday, November 7, 2025, 14:00-18:00
+
+    Location: TU Wien, [TUtheSky, Getreidemarkt 9, 1060 Vienna](https://maps.tuwien.ac.at/?q=BA11B09)
+
+    More information: [Japan Science Day 2025](https://www.tuwien.at/en/research/science-days/japan-science-day-2025)

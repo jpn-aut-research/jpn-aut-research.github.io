@@ -1,0 +1,40 @@
+---
+title: About JARNet
+lang: en
+---
+
+
+The Japan-Austria Researcher Network (JARNet) connects Japanese researchers and researchers with ties to Japan, especially those working in Austria, across a broad range of fields such as the natural sciences, engineering, humanities and social sciences, music, and the arts.
+The network is member-led and sustained by voluntary contributions from people across institutions and career stages.
+
+
+### Guiding Principles
+
+JARNet aims to create a practical foundation for research exchange and mutual support across national borders and academic fields.
+We see the network as a platform linking academics, culture, and society, guided by three principles.
+
+1. Connect
+
+    We create spaces where researchers can meet across disciplines, institutions, and career stages.
+    Informal encounters often lead to new questions, collaborations, and research ideas, and we want to make room for those moments.
+
+2. Share
+
+    We exchange experience and practical information that can support research and day-to-day life in Austria, including funding opportunities, calls, institutional systems, research environments, and everyday know-how.
+
+3. Co-create
+
+    We help ideas that emerge through connection and exchange grow into concrete forms such as collaborative projects, researcher mobility, and joint presentations. As a network linking Japan and Austria, we encourage cross-disciplinary work and new forms of value creation.
+
+
+### Activities
+
+- Networking gatherings, research seminars, and online or in-person meetings
+- Introductions to academic programs and exchange opportunities between Japan and Austria
+- Updates on funding opportunities, institutional systems, and other research-related information
+
+
+## How to Join
+
+
+Please join the mailing list via Google Groups. Details are available on the [Mailing List](mailing-list.qmd) page.

@@ -1,0 +1,53 @@
+---
+title: Veranstaltungen
+lang: de
+---
+
+Auf dieser Seite finden Sie kommende JARNet-Veranstaltungen sowie einen Rückblick auf bisherige Treffen.
+
+> Wenn Sie eine Veranstaltung mit dem Netzwerk teilen möchten oder Interesse an einer gemeinsamen Organisation haben, kontaktieren Sie uns bitte über [Kontakt](contact.qmd).
+
+
+### Kommende Veranstaltungen
+
+Derzeit sind keine kommenden Veranstaltungen angekündigt. Neue Termine werden hier veröffentlicht.
+
+
+### Vergangene Veranstaltungen
+
+- **Networking Event for Japanese Researchers**
+
+    Datum: Donnerstag, 16. Juli 2026, 14:00-17:00 CET
+
+    Ort: Residenz des Botschafters von Japan in Österreich, Wien
+
+    Programm: Vorträge mit anschließendem Netzwerken
+
+    Gemeinsam organisiert von der Botschaft von Japan in Österreich und der TU Wien
+
+    Die Veranstaltung fand auf Einladung statt.
+
+- **2. Forschenden-Netzwerktreffen**
+
+    Datum: Samstag, 31. Januar 2026, 12:00-15:00 CET
+
+    Gemeinsames Mittagessen in Wien
+
+- **1. Forschenden-Netzwerktreffen**
+
+    Datum: Samstag, 24. Mai 2025, 18:00-20:00 CET
+
+    Ort: Restaurant Nihonbashi ([Kärntner Strasse 44, 1100 Wien](https://maps.app.goo.gl/DWZzpDdifqfMxotS7))
+
+    Gemeinsames Abendessen
+
+
+### Weitere Veranstaltungen
+
+- **Japan Science Day 2025** (TU Wien)
+
+    Datum: Freitag, 7. November 2025, 14:00-18:00
+
+    Ort: TU Wien, [TUtheSky, Getreidemarkt 9, 1060 Vienna](https://maps.tuwien.ac.at/?q=BA11B09)
+
+    Weitere Informationen: [Japan Science Day 2025](https://www.tuwien.at/en/research/science-days/japan-science-day-2025)
